@@ -1,2 +1,2 @@
 Hi welcome to git basics
-We are trying Java code.
+We are trying Python code.
