@@ -17,7 +17,7 @@ def main():
     print(f"Subtraction of {a} - {b} = {subtract(a, b)}")
     print(f"Additon of {a} + {b} = {add(a,b)}")
     print(f"Division of {a} / {b} = {divide(a, b)}")
-    
+    print(f"Multiply of {a} * {b} = {multiply(a,b)}")
 
 if __name__ == '__main__':
     main()
