@@ -1,1 +1,2 @@
-Hi welome to git basics
+Hi welcome to git basics
+We are trying Python code.
